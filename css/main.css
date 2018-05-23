@@ -118,6 +118,7 @@ body {
 #inscricoes, #patrocinio, #organizacao {
 	clear:both;
 	padding-top:70px;
+
 }
 
 #inscricoes #descricao, #patrocinio #descricao, #organizacao #descricao {
@@ -310,22 +311,19 @@ body {
 
 #coordenadores-docentes #docentes {
 	float:left;
-	width:300px;
 }
 
 #coordenadores-docentes #coordenadores {
 	float:left;
-	width:250px;
 }
 
 #coordenadores-docentes #monitores {
-	float:left;
+	float: left;
 	margin-left:40px;
-	width:500px;
 }
 
 #coordenadores-docentes #monitores div {
-	float:left;
+	float: left;
 	margin-right:10px;
 }
 
